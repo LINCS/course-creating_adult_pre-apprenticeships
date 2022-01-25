@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="108" moduleid="4481" modulename="questionnaire" contextid="5887">
+  <questionnaire id="108">
+    <course>143</course>
+    <name>Module 2: Conclusion and reflection</name>
+    <intro>It’s important to understand workforce trends, opportunities, and challenges when designing a pre-apprenticeship. You should now have a good understanding of what workforce data is available to you and the importance of partnerships in designing programs that meet industry needs. Reflect on your learnings and answer the following questions.&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;What are the key trends in your industry? How might
+your pre-apprenticeship align with these? &lt;/li&gt;&lt;li&gt;How has the COVID-19 pandemic impacted demand for more
+skilled workers in your target industry?&lt;/li&gt;&lt;li&gt;How will your pre-apprenticeship align to industry
+needs? What value will your pre-apprenticeship bring to industry partners?&lt;/li&gt;&lt;li&gt;If you reached out to potential partners: What went
+well? Is there anything you would do next time?&lt;/li&gt;&lt;li&gt;As you think ahead to the next module, how might you
+involve your existing or potential partners in the design of your pre-apprenticeship?&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Click "Answer the questions..." below when you are ready to submit your answers.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <qtype>1</qtype>
+    <respondenttype>fullname</respondenttype>
+    <resp_eligible>all</resp_eligible>
+    <resp_view>1</resp_view>
+    <notifications>0</notifications>
+    <opendate>0</opendate>
+    <closedate>0</closedate>
+    <resume>1</resume>
+    <navigate>0</navigate>
+    <grade>0</grade>
+    <sid>108</sid>
+    <timemodified>1629080005</timemodified>
+    <completionsubmit>1</completionsubmit>
+    <autonum>3</autonum>
+    <surveys>
+      <survey id="108">
+        <name>Conclusion and reflection</name>
+        <courseid>143</courseid>
+        <realm>private</realm>
+        <status>0</status>
+        <title>Conclusion and reflection</title>
+        <email></email>
+        <subtitle></subtitle>
+        <info></info>
+        <theme></theme>
+        <thanks_page></thanks_page>
+        <thank_head></thank_head>
+        <thank_body>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Thank you for completing Module 2.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Developing partnerships can take time and maintaining these relationships is an ongoing and iterative process. You may wish to refer to JFF's&amp;nbsp;&lt;a href="https://www.jff.org/resources/employer-engagement-toolkit-placement-partners/"&gt;employer engagement toolkit: from placement to partners&lt;/a&gt;&amp;nbsp;to support your ongoing partnership development.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Proceed to&amp;nbsp;Module 3 by clicking "Continue" below.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</thank_body>
+        <feedbacksections>0</feedbacksections>
+        <feedbacknotes></feedbacknotes>
+        <feedbackscores>0</feedbackscores>
+        <chart_type></chart_type>
+        <questions>
+          <question id="802">
+            <surveyid>108</surveyid>
+            <name></name>
+            <type_id>2</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>2000</length>
+            <precise>2000</precise>
+            <position>1</position>
+            <content>What are the key trends in your industry? How might your pre-apprenticeship align with these? (Required)</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <extradata>0</extradata>
+            <quest_choices>
+            </quest_choices>
+            <quest_dependencies>
+            </quest_dependencies>
+          </question>
+          <question id="803">
+            <surveyid>108</surveyid>
+            <name></name>
+            <type_id>2</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>2000</length>
+            <precise>2000</precise>
+            <position>2</position>
+            <content>How has the COVID-19 pandemic impacted demand for more skilled workers in your target industry?&amp;nbsp;(Required)</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <extradata>0</extradata>
+            <quest_choices>
+            </quest_choices>
+            <quest_dependencies>
+            </quest_dependencies>
+          </question>
+          <question id="804">
+            <surveyid>108</surveyid>
+            <name></name>
+            <type_id>2</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>2000</length>
+            <precise>2000</precise>
+            <position>3</position>
+            <content>How will your pre-apprenticeship align to industry needs? What value will your pre-apprenticeship bring to industry partners?&amp;nbsp;(Required)</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <extradata>0</extradata>
+            <quest_choices>
+            </quest_choices>
+            <quest_dependencies>
+            </quest_dependencies>
+          </question>
+          <question id="805">
+            <surveyid>108</surveyid>
+            <name></name>
+            <type_id>2</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>2000</length>
+            <precise>2000</precise>
+            <position>4</position>
+            <content>If you reached out to potential partners: What went well? Is there anything you would do differently next time?&amp;nbsp;(Required)</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <extradata>0</extradata>
+            <quest_choices>
+            </quest_choices>
+            <quest_dependencies>
+            </quest_dependencies>
+          </question>
+          <question id="806">
+            <surveyid>108</surveyid>
+            <name></name>
+            <type_id>2</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>2000</length>
+            <precise>2000</precise>
+            <position>5</position>
+            <content>As you think ahead to the next module, how might you involve your existing or potential partners in the design of your pre-apprenticeship?&amp;nbsp;(Required)</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <extradata>0</extradata>
+            <quest_choices>
+            </quest_choices>
+            <quest_dependencies>
+            </quest_dependencies>
+          </question>
+          <question id="826">
+            <surveyid>108</surveyid>
+            <name>$@NULL@$</name>
+            <type_id>99</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>0</length>
+            <precise>0</precise>
+            <position>6</position>
+            <content>break</content>
+            <required>n</required>
+            <deleted>y</deleted>
+            <extradata>$@NULL@$</extradata>
+            <quest_choices>
+            </quest_choices>
+            <quest_dependencies>
+            </quest_dependencies>
+          </question>
+        </questions>
+        <fb_sections>
+        </fb_sections>
+      </survey>
+    </surveys>
+    <responses>
+    </responses>
+  </questionnaire>
+</activity>

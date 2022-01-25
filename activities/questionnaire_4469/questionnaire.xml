@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="103" moduleid="4469" modulename="questionnaire" contextid="5875">
+  <questionnaire id="103">
+    <course>143</course>
+    <name>Module 1: Conclusion and reflection</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;You should now have a good understanding of the core elements of high-quality pre-apprenticeships. Reflect on your understanding of pre-apprenticeships and the following questions. Click "Answer the questions..." below when you are ready to submit your answers.&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;What is a pre-apprenticeship and how do they differ
+from other adult education or job readiness programs? &lt;/li&gt;&lt;li&gt;What are the key elements of high-quality
+pre-apprenticeships? &lt;/li&gt;&lt;li&gt;What are the key benefits of pre-apprenticeships for
+participants, employers and apprenticeships, and the broader workforce?&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <qtype>1</qtype>
+    <respondenttype>fullname</respondenttype>
+    <resp_eligible>all</resp_eligible>
+    <resp_view>1</resp_view>
+    <notifications>0</notifications>
+    <opendate>0</opendate>
+    <closedate>0</closedate>
+    <resume>1</resume>
+    <navigate>0</navigate>
+    <grade>0</grade>
+    <sid>103</sid>
+    <timemodified>1629071502</timemodified>
+    <completionsubmit>1</completionsubmit>
+    <autonum>3</autonum>
+    <surveys>
+      <survey id="103">
+        <name>Conclusion and reflection</name>
+        <courseid>143</courseid>
+        <realm>private</realm>
+        <status>0</status>
+        <title>Conclusion and reflection</title>
+        <email></email>
+        <subtitle></subtitle>
+        <info></info>
+        <theme></theme>
+        <thanks_page></thanks_page>
+        <thank_head></thank_head>
+        <thank_body>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;You have now complete Module 1.&amp;nbsp;&lt;/p&gt;&lt;p&gt;You are encouraged to refer to the U.S. Department of Labor's&amp;nbsp;&lt;a href="https://www.apprenticeship.gov/employers/explore-pre-apprenticeship" style="background-color: rgb(255, 255, 255); font-size: 1.7rem;"&gt;explore pre-apprenticeship&lt;/a&gt;&lt;span style="font-size: 1.7rem;"&gt;&amp;nbsp;resource and JFF's&amp;nbsp;&lt;/span&gt;&lt;a href="https://www.jff.org/resources/jffs-framework-high-quality-pre-apprenticeship-program/" style="background-color: rgb(255, 255, 255); font-size: 1.7rem;"&gt;framework for a high-quality pre-apprenticeship
+program&lt;/a&gt;&lt;span style="font-size: 1.7rem;"&gt;&amp;nbsp;as you progress through this course.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 1.7rem;"&gt;Proceed to&amp;nbsp;Module 2 by clicking "Continue" below.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</thank_body>
+        <feedbacksections>0</feedbacksections>
+        <feedbacknotes></feedbacknotes>
+        <feedbackscores>0</feedbackscores>
+        <chart_type></chart_type>
+        <questions>
+          <question id="789">
+            <surveyid>103</surveyid>
+            <name></name>
+            <type_id>2</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>1000</length>
+            <precise>1000</precise>
+            <position>1</position>
+            <content>What is a pre-apprenticeship and how do they differ from other adult education or job readiness programs? (Required)</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <extradata>0</extradata>
+            <quest_choices>
+            </quest_choices>
+            <quest_dependencies>
+            </quest_dependencies>
+          </question>
+          <question id="790">
+            <surveyid>103</surveyid>
+            <name></name>
+            <type_id>2</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>2000</length>
+            <precise>2000</precise>
+            <position>2</position>
+            <content>What are the key elements of high-quality pre-apprenticeships?&amp;nbsp;(Required)</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <extradata>0</extradata>
+            <quest_choices>
+            </quest_choices>
+            <quest_dependencies>
+            </quest_dependencies>
+          </question>
+          <question id="791">
+            <surveyid>103</surveyid>
+            <name></name>
+            <type_id>2</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>2000</length>
+            <precise>2000</precise>
+            <position>3</position>
+            <content>What are the key benefits of pre-apprenticeships for participants, employers and apprenticeships, and the broader workforce?&amp;nbsp;(Required)</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <extradata>0</extradata>
+            <quest_choices>
+            </quest_choices>
+            <quest_dependencies>
+            </quest_dependencies>
+          </question>
+        </questions>
+        <fb_sections>
+        </fb_sections>
+      </survey>
+    </surveys>
+    <responses>
+    </responses>
+  </questionnaire>
+</activity>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="143" contextid="5852">
+  <shortname>Creating Adult Pre-Apprenticeships </shortname>
+  <fullname>Creating Adult Pre-Apprenticeships</fullname>
+  <idnumber></idnumber>
+  <summary>&lt;p dir="ltr" style="text-align: left;"&gt;This course has been designed to help adult education providers design new pre-apprenticeships or refine existing programs. It is also intended to support providers who are implementing other similar integrated education and training programs. The content includes examples and resources that are relevant to a range of adult education providers and a variety of industries.&lt;br&gt;&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>topcoll</format>
+  <showgrades>1</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1626840000</startdate>
+  <enddate>0</enddate>
+  <marker>0</marker>
+  <maxbytes>0</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang>en_us</lang>
+  <theme></theme>
+  <timecreated>1626835524</timecreated>
+  <timemodified>1629247347</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <numsections>7</numsections>
+  <hiddensections>0</hiddensections>
+  <displayinstructions>2</displayinstructions>
+  <layoutelement>1</layoutelement>
+  <layoutstructure>1</layoutstructure>
+  <layoutcolumns>1</layoutcolumns>
+  <layoutcolumnorientation>2</layoutcolumnorientation>
+  <toggleallenabled>2</toggleallenabled>
+  <viewsinglesectionenabled>2</viewsinglesectionenabled>
+  <togglealignment>2</togglealignment>
+  <toggleiconposition>1</toggleiconposition>
+  <toggleiconset>arrow</toggleiconset>
+  <onesection>1</onesection>
+  <toggleallhover>2</toggleallhover>
+  <toggleforegroundcolour>000000</toggleforegroundcolour>
+  <toggleforegroundopacity>1.0</toggleforegroundopacity>
+  <toggleforegroundhovercolour>888888</toggleforegroundhovercolour>
+  <toggleforegroundhoveropacity>1.0</toggleforegroundhoveropacity>
+  <togglebackgroundcolour>e2e2f2</togglebackgroundcolour>
+  <togglebackgroundopacity>1.0</togglebackgroundopacity>
+  <togglebackgroundhovercolour>eeeeff</togglebackgroundhovercolour>
+  <togglebackgroundhoveropacity>1.0</togglebackgroundhoveropacity>
+  <showsectionsummary>1</showsectionsummary>
+  <showadditionalmoddata>0</showadditionalmoddata>
+  <category id="1">
+    <name>Active Course Development</name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+  <customfields>
+  </customfields>
+</course>

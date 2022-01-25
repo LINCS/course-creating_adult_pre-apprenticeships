@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="190" moduleid="4499" modulename="url" contextid="5905">
+  <url id="190">
+    <name>Course evaluation</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;The purpose of this survey is to learn about your most recent experience with OCTAE-DEAL training. This survey is voluntary but your input is valued and will help us improve the trainings we offer. The survey should take approximately 5 minutes to complete. Your responses are confidential and we do not use any technical or non-technical means of tracking responses.&amp;nbsp;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>https://survey.alchemer.com/s3/6221234/LINCS-Training-Evaluation</externalurl>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1629248276</timemodified>
+  </url>
+</activity>

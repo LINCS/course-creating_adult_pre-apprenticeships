@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="786" moduleid="4482" modulename="page" contextid="5888">
+  <page id="786">
+    <name>Module 3: Designing your pre-apprenticeship</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>This module is all about designing your pre-apprenticeship program — from setting entry requirements to identifying and integrating support services.&amp;nbsp;&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;This module is intended to help you make decisions about: &lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Entry and screening requirements for your program.&lt;/li&gt;&lt;li&gt;Key elements of your program, such as duration and mode of delivery.&lt;/li&gt;&lt;li&gt;The skills and credentials Participants will gain through your program.&lt;/li&gt;&lt;li&gt;The support services the program will provide, either directly or through external partners.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>6</revision>
+    <timemodified>1634594469</timemodified>
+  </page>
+</activity>

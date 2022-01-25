@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="791" moduleid="4489" modulename="page" contextid="5895">
+  <page id="791">
+    <name>Module 4: Managing your pre-apprenticeship</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>This module contains several resources to help you start thinking about your communications strategy and outcomes measurement. These two topics are connected — having a strong sense of your pre-apprenticeship program’s goals and outcomes will provide important data for you to incorporate into your communications.
+
+By the end of this module, you will:&amp;nbsp;&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Be able to identify key program outcomes.&lt;/li&gt;
+    &lt;li&gt;
+        &lt;!--[endif]--&gt;Understand how to articulate program inputs, outputs, and outcomes.&lt;/li&gt;
+    &lt;li&gt;Understand how to communicate the benefits of your pre-apprenticeship program.&lt;/li&gt;
+    &lt;li&gt;Understand different digital and in-person communications channels and measure the success of each.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>6</revision>
+    <timemodified>1629063692</timemodified>
+  </page>
+</activity>

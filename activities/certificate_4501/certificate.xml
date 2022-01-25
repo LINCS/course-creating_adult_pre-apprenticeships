@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="140" moduleid="4501" modulename="certificate" contextid="5907">
+  <certificate id="140">
+    <name>Creating Adult Pre-apprenticeships</name>
+    <intro>Click the link to download your certificate after you have reviewed all of the course content.&amp;nbsp;</intro>
+    <introformat>1</introformat>
+    <emailteachers>0</emailteachers>
+    <emailothers></emailothers>
+    <savecert>0</savecert>
+    <reportcert>0</reportcert>
+    <delivery>0</delivery>
+    <certificatetype>A4_non_embedded</certificatetype>
+    <orientation>L</orientation>
+    <borderstyle>0</borderstyle>
+    <bordercolor>0</bordercolor>
+    <printwmark>0</printwmark>
+    <printdate>0</printdate>
+    <datefmt>1</datefmt>
+    <printnumber>0</printnumber>
+    <printgrade>0</printgrade>
+    <gradefmt>1</gradefmt>
+    <printoutcome>0</printoutcome>
+    <printhours></printhours>
+    <printteacher>0</printteacher>
+    <customtext></customtext>
+    <printsignature>0</printsignature>
+    <printseal>0</printseal>
+    <timecreated>1629246567</timecreated>
+    <timemodified>1629247847</timemodified>
+    <issues>
+    </issues>
+  </certificate>
+</activity>

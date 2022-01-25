@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="105" moduleid="4474" modulename="questionnaire" contextid="5880">
+  <questionnaire id="105">
+    <course>143</course>
+    <name>Activity: Review industry trends</name>
+    <intro>Identify and review relevant secondary data for your area and answer the following questions. You may wish to consult Workforce GPS’ &lt;a href="https://lmi.workforcegps.org/resources/2015/04/03/15/48/Guide_to_State_and_Local_Workforce_Data"&gt;guide to state and local workforce data&lt;/a&gt; to find relevant employment and economic data.&amp;nbsp;&lt;p&gt;&lt;span style="font-size: 1.7rem;"&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;What does this data tell you about demand in your
+target industry? &lt;/li&gt;&lt;li&gt;How has this changed over time? Has the COVID-19
+pandemic affected demand for this industry? &lt;/li&gt;&lt;li&gt;What might decrease or increase demand in the coming
+years?&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Click "Answer the questions..." below when you are ready to submit your answers.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <qtype>1</qtype>
+    <respondenttype>fullname</respondenttype>
+    <resp_eligible>all</resp_eligible>
+    <resp_view>1</resp_view>
+    <notifications>0</notifications>
+    <opendate>0</opendate>
+    <closedate>0</closedate>
+    <resume>1</resume>
+    <navigate>0</navigate>
+    <grade>0</grade>
+    <sid>105</sid>
+    <timemodified>1629079889</timemodified>
+    <completionsubmit>1</completionsubmit>
+    <autonum>3</autonum>
+    <surveys>
+      <survey id="105">
+        <name>Review industry trends</name>
+        <courseid>143</courseid>
+        <realm>private</realm>
+        <status>0</status>
+        <title>Review industry trends</title>
+        <email></email>
+        <subtitle></subtitle>
+        <info></info>
+        <theme></theme>
+        <thanks_page></thanks_page>
+        <thank_head></thank_head>
+        <thank_body>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Thank you for submitting your answers.&lt;br&gt;&lt;/p&gt;&lt;p&gt;The &lt;a href="https://www.bls.gov/regions/home.htm"&gt;Bureau of Labor Statistics&lt;/a&gt;&amp;nbsp;release employment data updates regularly. You are encouraged to keep track of this data and regularly check in with stakeholders in your local workforce system to keep track of industry trends.&amp;nbsp;&lt;br&gt;&lt;br&gt;Click "Continue" below to proceed to the next activity.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</thank_body>
+        <feedbacksections>0</feedbacksections>
+        <feedbacknotes></feedbacknotes>
+        <feedbackscores>0</feedbackscores>
+        <chart_type></chart_type>
+        <questions>
+          <question id="795">
+            <surveyid>105</surveyid>
+            <name></name>
+            <type_id>2</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>2000</length>
+            <precise>2000</precise>
+            <position>1</position>
+            <content>What does this data tell you about demand in your target industry?&amp;nbsp;(Required)</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <extradata>0</extradata>
+            <quest_choices>
+            </quest_choices>
+            <quest_dependencies>
+            </quest_dependencies>
+          </question>
+          <question id="796">
+            <surveyid>105</surveyid>
+            <name></name>
+            <type_id>2</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>2000</length>
+            <precise>2000</precise>
+            <position>2</position>
+            <content>How has this changed over time? Has the COVID-19 pandemic affected demand for this industry?&amp;nbsp;(Required)</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <extradata>0</extradata>
+            <quest_choices>
+            </quest_choices>
+            <quest_dependencies>
+            </quest_dependencies>
+          </question>
+          <question id="797">
+            <surveyid>105</surveyid>
+            <name></name>
+            <type_id>2</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>2000</length>
+            <precise>2000</precise>
+            <position>3</position>
+            <content>What might decrease or increase demand in the coming years?&amp;nbsp;(Required)</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <extradata>0</extradata>
+            <quest_choices>
+            </quest_choices>
+            <quest_dependencies>
+            </quest_dependencies>
+          </question>
+        </questions>
+        <fb_sections>
+        </fb_sections>
+      </survey>
+    </surveys>
+    <responses>
+    </responses>
+  </questionnaire>
+</activity>

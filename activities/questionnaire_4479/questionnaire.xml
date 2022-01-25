@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="107" moduleid="4479" modulename="questionnaire" contextid="5885">
+  <questionnaire id="107">
+    <course>143</course>
+    <name>Activity: Developing a partner value proposition</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Before you reach out to potential partners, it is important
+to have a strong value proposition. A value proposition is a concise statement
+that paints a clear picture of what you program will offer potential partners.
+This template is just a starting point. Once you have developed a statement
+using this template, you may be able to edit and refine it to make it even more
+compelling and concise.&lt;/p&gt;
+
+&lt;p&gt;Example: &lt;span&gt;&lt;em&gt;Our &lt;/em&gt;&lt;u style="font-style: italic;"&gt;innovative
+12-week pre-apprenticeship&lt;/u&gt;&lt;em&gt; will provide you access to pre-screened,
+well-trained &lt;/em&gt;&lt;u style="font-style: italic;"&gt;women&lt;/u&gt;&lt;em&gt; with &lt;/em&gt;&lt;u style="font-style: italic;"&gt;trade-specific skills and OSHA certification&lt;/u&gt;&lt;em&gt;
+that will &lt;/em&gt;&lt;u style="font-style: italic;"&gt;help diversity your talent pipeline&lt;/u&gt;&lt;em&gt;.&lt;/em&gt;&lt;br&gt;&lt;br&gt;Click "Answer the questions..." below to draft your own partner value proposition.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <qtype>1</qtype>
+    <respondenttype>fullname</respondenttype>
+    <resp_eligible>all</resp_eligible>
+    <resp_view>1</resp_view>
+    <notifications>0</notifications>
+    <opendate>0</opendate>
+    <closedate>0</closedate>
+    <resume>1</resume>
+    <navigate>0</navigate>
+    <grade>0</grade>
+    <sid>107</sid>
+    <timemodified>1629079934</timemodified>
+    <completionsubmit>1</completionsubmit>
+    <autonum>3</autonum>
+    <surveys>
+      <survey id="107">
+        <name>Activity: Developing a partner value proposition</name>
+        <courseid>143</courseid>
+        <realm>private</realm>
+        <status>0</status>
+        <title>Activity: Developing a partner value proposition</title>
+        <email></email>
+        <subtitle></subtitle>
+        <info></info>
+        <theme></theme>
+        <thanks_page></thanks_page>
+        <thank_head></thank_head>
+        <thank_body>&lt;p dir="ltr" style="text-align: left;"&gt;Thank you for submitting your partner value proposition.&lt;br&gt;&lt;br&gt;Remember, this template is just a starting point. You are encouraged to continue to refine your value proposition and adapt it to different audiences and contexts.&lt;br&gt;&lt;br&gt;Click "Continue" to proceed to the next activity.&amp;nbsp;&lt;br&gt;&lt;/p&gt;</thank_body>
+        <feedbacksections>0</feedbacksections>
+        <feedbacknotes></feedbacknotes>
+        <feedbackscores>0</feedbackscores>
+        <chart_type></chart_type>
+        <questions>
+          <question id="801">
+            <surveyid>107</surveyid>
+            <name></name>
+            <type_id>2</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>2500</length>
+            <precise>2500</precise>
+            <position>1</position>
+            <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Our ______________________ [program description]&lt;/p&gt;
+
+&lt;p&gt;Will provide you access to pre-screened, well-trained ________
+[segment of adult participants]&lt;/p&gt;
+
+&lt;p&gt;With ____________________ [skills and certifications] &lt;/p&gt;
+
+&lt;p&gt;That will ________________ [key benefit(s) to employer /
+apprenticeship].&lt;/p&gt;&lt;br&gt;(Required)&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <extradata>0</extradata>
+            <quest_choices>
+            </quest_choices>
+            <quest_dependencies>
+            </quest_dependencies>
+          </question>
+        </questions>
+        <fb_sections>
+        </fb_sections>
+      </survey>
+    </surveys>
+    <responses>
+    </responses>
+  </questionnaire>
+</activity>
