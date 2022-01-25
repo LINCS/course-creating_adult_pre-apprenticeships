@@ -1,5 +1,5 @@
-# Course: Teaching Adults to Read: Teaching Beginning and Intermediate Readers
-This course explores evidence-based instructional practices for supporting adult readers of all skill levels in mastering essential skills, from alphabetics to comprehension.
+# Course: Creating Adult Pre-Apprenticeships
+This course has been designed to help adult education providers design new pre-apprenticeships or refine existing programs. It is also intended to support providers who are implementing other similar integrated education and training programs. The content includes examples and resources that are relevant to a range of adult education providers and a variety of industries.
 
 ## Import Instructions
 The files for this course are provided in an uncompressed format. In order to import this course into your Moodle site please follow the instructions provided below:
